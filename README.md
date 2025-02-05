@@ -1,4 +1,4 @@
-# Power_BI-Sales-analysis_dashboards
+# Power_BI-Sales-analysis_dashboard
 
 **Overview**:
 This project presents a Power BI Sales Dashboard designed for tracking and analyzing sales performance for Awesome Chocolates. The dashboard provides insights into key metrics such as total revenue, sales trends, top-selling products, regional performance and customer segmentation.
